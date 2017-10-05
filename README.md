@@ -1,2 +1,2 @@
-Rep1
+C++ repo. Basic exercises
 ====
