@@ -1,2 +1,2 @@
-C++ repo. Basic exercises
+Linux command line script practice
 ====
